@@ -51,7 +51,7 @@ pip install -r requirements.txt
 Run the script from your terminal:
 
 ```bash
-python heat_diffusion.py
+python run.py
 ```
 
 ### Example Input Parameters
